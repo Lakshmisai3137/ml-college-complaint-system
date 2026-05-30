@@ -249,4 +249,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-*Built with ❤️ using React, Flask, and scikit-learn*
+*Built using React, Flask, and scikit-learn*
