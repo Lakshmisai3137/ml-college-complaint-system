@@ -1,0 +1,6 @@
+{
+  "name": "AI Complaint Management Portal",
+  "description": "A cyber-modern, AI-driven college complaint registry and automated resolution dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
