@@ -103,8 +103,8 @@ ml projket/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/Lakshmisai3137/ml-college-complaint-system.git
+cd ml-college-complaint-system
 ```
 
 ---
@@ -242,11 +242,6 @@ The app uses localStorage-based auth for demonstration purposes.
 
 ---
 
-## 📜 License
-
-This project is licensed under the **Apache-2.0 License**.
-
----
 
 ## 🙌 Contributing
 
